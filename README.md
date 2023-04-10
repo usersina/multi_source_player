@@ -1,6 +1,6 @@
 # Multi Source Player
 
-This flutter demonstrations shows how to play a video in flutter with a different audio source without having to encode or bake a new video every time.
+This demo application shows how to play a video in flutter with a different audio source without having to encode or bake a new video file every time.
 
 <div align=center>
     <img src="./media/demo-ui.png" width="300" height="value">
